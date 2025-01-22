@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\MATHEUSCANOVASALMEID\\source\\repos\\creating-aspnet-project-from-scratch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15B12165-30EB-431B-826D-8C98D60DA929}|src\\NoTemplate.App\\NoTemplate.App.csproj|c:\\users\\matheuscanovasalmeid\\source\\repos\\creating-aspnet-project-from-scratch\\src\\notemplate.app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15B12165-30EB-431B-826D-8C98D60DA929}|src\\NoTemplate.App\\NoTemplate.App.csproj|solutionrelative:src\\notemplate.app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15B12165-30EB-431B-826D-8C98D60DA929}|src\\NoTemplate.App\\NoTemplate.App.csproj|c:\\users\\matheuscanovasalmeid\\source\\repos\\creating-aspnet-project-from-scratch\\src\\notemplate.app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15B12165-30EB-431B-826D-8C98D60DA929}|src\\NoTemplate.App\\NoTemplate.App.csproj|solutionrelative:src\\notemplate.app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15B12165-30EB-431B-826D-8C98D60DA929}|src\\NoTemplate.App\\NoTemplate.App.csproj|c:\\users\\matheuscanovasalmeid\\source\\repos\\creating-aspnet-project-from-scratch\\src\\notemplate.app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{15B12165-30EB-431B-826D-8C98D60DA929}|src\\NoTemplate.App\\NoTemplate.App.csproj|solutionrelative:src\\notemplate.app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15B12165-30EB-431B-826D-8C98D60DA929}|src\\NoTemplate.App\\NoTemplate.App.csproj|c:\\users\\matheuscanovasalmeid\\source\\repos\\creating-aspnet-project-from-scratch\\src\\notemplate.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15B12165-30EB-431B-826D-8C98D60DA929}|src\\NoTemplate.App\\NoTemplate.App.csproj|solutionrelative:src\\notemplate.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15B12165-30EB-431B-826D-8C98D60DA929}|src\\NoTemplate.App\\NoTemplate.App.csproj|c:\\users\\matheuscanovasalmeid\\source\\repos\\creating-aspnet-project-from-scratch\\src\\notemplate.app\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15B12165-30EB-431B-826D-8C98D60DA929}|src\\NoTemplate.App\\NoTemplate.App.csproj|solutionrelative:src\\notemplate.app\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\MATHEUSCANOVASALMEID\\source\\repos\\creating-aspnet-project-from-scratch\\src\\NoTemplate.App\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "src\\NoTemplate.App\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\MATHEUSCANOVASALMEID\\source\\repos\\creating-aspnet-project-from-scratch\\src\\NoTemplate.App\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "src\\NoTemplate.App\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T18:55:16.57Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MATHEUSCANOVASALMEID\\source\\repos\\creating-aspnet-project-from-scratch\\src\\NoTemplate.App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "src\\NoTemplate.App\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MATHEUSCANOVASALMEID\\source\\repos\\creating-aspnet-project-from-scratch\\src\\NoTemplate.App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "src\\NoTemplate.App\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T19:17:52.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "index.cshtml",
-              "DocumentMoniker": "C:\\Users\\MATHEUSCANOVASALMEID\\source\\repos\\creating-aspnet-project-from-scratch\\src\\NoTemplate.App\\Views\\Home\\index.cshtml",
-              "RelativeDocumentMoniker": "src\\NoTemplate.App\\Views\\Home\\index.cshtml",
-              "ToolTip": "C:\\Users\\MATHEUSCANOVASALMEID\\source\\repos\\creating-aspnet-project-from-scratch\\src\\NoTemplate.App\\Views\\Home\\index.cshtml",
-              "RelativeToolTip": "src\\NoTemplate.App\\Views\\Home\\index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T18:54:47.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MATHEUSCANOVASALMEID\\source\\repos\\creating-aspnet-project-from-scratch\\src\\NoTemplate.App\\Program.cs",
-              "RelativeDocumentMoniker": "src\\NoTemplate.App\\Program.cs",
-              "ToolTip": "C:\\Users\\MATHEUSCANOVASALMEID\\source\\repos\\creating-aspnet-project-from-scratch\\src\\NoTemplate.App\\Program.cs",
-              "RelativeToolTip": "src\\NoTemplate.App\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T18:52:07.412Z",
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\MATHEUSCANOVASALMEID\\source\\repos\\creating-aspnet-project-from-scratch\\src\\NoTemplate.App\\libman.json",
+              "RelativeDocumentMoniker": "src\\NoTemplate.App\\libman.json",
+              "ToolTip": "C:\\Users\\MATHEUSCANOVASALMEID\\source\\repos\\creating-aspnet-project-from-scratch\\src\\NoTemplate.App\\libman.json",
+              "RelativeToolTip": "src\\NoTemplate.App\\libman.json",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T19:10:49.947Z",
               "EditorCaption": ""
             }
           ]

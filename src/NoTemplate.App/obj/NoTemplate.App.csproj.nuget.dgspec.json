@@ -50,6 +50,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "BuildBundlerMinifier2022": {
+              "target": "Package",
+              "version": "[2.9.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
